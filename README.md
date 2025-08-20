@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>🎯 **Current Focus**: Cybersecurity Graduate Student at Webster University (GPA: 4.0) specializing in SOC Analysis and Security Engineering<br><br>🔐 **Professional Background**: <br>- SOC Analyst & Security Engineer with hands-on experience in SIEM, Incident Response, and IAM<br>- Google Certified Cybersecurity Professional<br>- IIT Kharagpur Alumnus (B.Tech Mechanical Engineering, 2016-2020)<br><br>💼 **Previous Experience**: <br>- AI/ML Engineer and Flutter Developer at CloudNext Technologies (2021-2024)<br>- Delivered high-impact mobile applications, boosting performance by 200% and user engagement by 150%<br>- Developed Dr. Next mobile and desktop apps using Flutter and Dart<br><br>🛡️ **Cybersecurity Expertise**:<br>- **SIEM Tools**: Splunk, QRadar, SentinelOne<br>- **Incident Response & Threat Detection**: Python scripting for brute-force detection, log analysis<br>- **Identity & Access Management**: IAM protocol alignment with compliance standards<br>- **Network Security**: Wireshark, PowerShell, SQL<br>- **Industry Simulations**: Hands-on experience with TCS, AIG, Deloitte, and Mastercard scenarios<br><br>🏆 **Certifications**: <br>- Google Cybersecurity Certification<br>- IBM Cybersecurity Fundamentals<br>- AIG Shields Up: Cybersecurity Job Simulation (Forage)<br><br>🌟 **Key Projects**:<br>- Developed Python scripts for automated brute-force attack detection<br>- Conducted comprehensive log analysis during simulated security breaches<br>- Aligned IAM protocols to meet industry compliance standards<br><br>🎯 **Career Goals**: Seeking entry-level opportunities as a SOC Analyst or Security Engineer to leverage my skills in proactive risk identification, incident resolution, and building stronger organizational security postures<br><br>🌐 **Volunteering**: Event Organizer at Kshitij, IIT Kharagpur (Asia's largest techno-management festival)<br><br>📍 **Location**: United States<br><br>🤝 Let's connect if you're looking for a dedicated cybersecurity professional committed to continuous growth and excellence in securing digital landscapes!
 
-<!--
-**SaiKrishna-Masetti/SaiKrishna-Masetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-krishna-masetti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikrishnamasetti369@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaiKrishna-Masetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SaiKrishna-Masetti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishna-Masetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SaiKrishna-Masetti&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
